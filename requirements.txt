@@ -1,0 +1,5 @@
+openai>=1.68,<3
+langchain-core>=0.3,<2
+sentence-transformers>=3,<6
+sacrebleu>=2.5,<3
+rouge-score==0.1.2
